@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sultan336/Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sultan336/Blockchain/issues"
+  },
+  "homepage": "https://github.com/Sultan336/Blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
+  }
+}
